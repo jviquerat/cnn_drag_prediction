@@ -4,7 +4,7 @@ This repository contains a Python code that performs the training of a VGG-like 
 
 ## Citation
 
-The publication associated to this repository can be found [here](https://arxiv.org/abs/1907.05090).  
+The publication associated to this repository can be found [here](https://www.sciencedirect.com/science/article/abs/pii/S0045793020302164) (article) and [here](https://arxiv.org/abs/1907.05090) (pre-print).  
 If you use this repository for your own research, please consider citing it.
 
 ## Usage
